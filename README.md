@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naazaneen
-- 🌱 currently learning product design and development
-- 💞️ looking to collaborate on Rentamon's Calendar
+- 🌱 Currently learning product design and development
+- 💞️ Looking to collaborate on Rentamon's Calendar
 - 📫 Reach me via nazanin@rentamon.com
 
 <!---
